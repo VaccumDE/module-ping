@@ -1,0 +1,9 @@
+name: module-ping
+version: 1.1-RELEASE
+main: bungee.vaccum.module.ping.Ping
+author: Vaccum.de
+authors:
+  - Vaccum.de
+  - Prixix
+commands:
+  ping:
